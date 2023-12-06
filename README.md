@@ -1,3 +1,12 @@
 # ydata_profiling_customer_churn
 
-Personal project to use ydata_profiling package.  I got insights the same insights from the same dataset with less time and effort. This will free up time for deeper analysis in the future.  Data are from customer churn data shared by Data With Mo in youtube. I got time savings vs. creating charts and histograms using other libraries.  The Data With Mo yt channel used Tableau to gain his key insight of bad ratings leading to lost customers.  This code produced the same insight in just a few minutes, with an interactive html output. Check out the output.html file or the print-out pdf file here in this repository.
+Personal project to use ydata_profiling package.  I got insights the same insights from the same dataset with less time and effort. 
+Key Insight from this EDA:  Customer "Exited" had highest correlation with "Complain"
+Key Insight from yt channel: Same
+
+Benefit:  This frees up time for the company and for analysts, and time savings can be allocated to deeper analysis in the future.  
+Advantage vs. yt method:  Creating EDA histograms and correlations from libraries, one by one, will involve more time and effort.  yt channel used Tableau, which requires subscription.  
+
+Data source:  Data are from customer churn data shared by Data With Mo in youtube. 
+
+Check out the output.html file or the print-out pdf file here in this repository.
