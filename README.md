@@ -1,6 +1,6 @@
 # ydata_profiling_customer_churn
 
-Personal project to use ydata_profiling package.  I got insights the same insights from the same dataset with less time and effort. 
+Personal project to use ydata_profiling package.  I got the same key insight from the same dataset with less time and effort. 
 Key Insight from this EDA:  Customer "Exited" had highest correlation with "Complain"
 Key Insight from yt channel: Same
 
