@@ -10,4 +10,4 @@ yt channel used Tableau, which requires subscription.  <br>
 
 Data source:  Data are from customer churn data shared by Data With Mo in youtube. [csv file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/Customer_Churn_Records.csv)
 
-Check out the output.html file or the print-out pdf file here in this repository.
+Check out the [output.html file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/output.html) or the print-out [pdf file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/Profiling_Report_Customer_Churn.pdf) here in this repository.
