@@ -8,6 +8,6 @@ Benefit:  This frees up time for the company and for analysts, and time savings 
 Advantage vs. yt method:  Creating EDA histograms and correlations from libraries, one by one, will involve more time and effort. <br>
 yt channel used Tableau, which requires subscription.  <br>
 
-Data source:  Data are from customer churn data shared by Data With Mo in youtube. 
+Data source:  Data are from customer churn data shared by Data With Mo in youtube. [csv file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/Customer_Churn_Records.csv)
 
 Check out the output.html file or the print-out pdf file here in this repository.
