@@ -7,7 +7,7 @@ Personal project to use ydata_profiling package.  I got the same key insight fro
 
 **Benefit:**  Using this package frees up time for the company and for analysts, and time savings can be allocated to deeper analysis in the future.  <br>
 
-**Advantage vs. yt method (Tableau):**  Creating EDA histograms and correlations from libraries, one by one, will involve more time and effort. <br>
+**Advantage vs. yt method (Tableau):**  Creating EDA histograms and correlations from libraries, one by one, will involve more time and effort. Tableau is more impressive as a talking point when communicating this main idea to stakeholders and has more interactive features that will allow stakeholders to slice the data further. <br>
 
 **Data source:**  Data are from customer churn data shared by Data With Mo in youtube. [csv file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/Customer_Churn_Records.csv)<br>
 
