@@ -1,7 +1,8 @@
 # ydata_profiling_customer_churn
 
 Portfolio project to use ydata_profiling package.  I got the same key insight from the same dataset with less time and effort. <br>
-**Key Insight from this EDA:**  Customer "Exited" had highest correlation with "Complain" See [jpg file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/correlations_complain_exited.JPG) for screenshot <br>
+**Key Insight from this EDA:**  Customer "Exited" had highest correlation with "Complain" 
+![jpg file](https://github.com/SandyGCabanes/customer_churn_exploratory_data_analysis_ydata_profiling_python/blob/main/correlations_complain_exited.JPG) <br>
 
 **Key Insight from yt channel:** Same as the Tableau insight used in Mo Chen's YouTube channel.
 
